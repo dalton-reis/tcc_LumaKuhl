@@ -1,0 +1,21 @@
+Pesquisa para desenvolvimento do projeto de conclusão do curso de Bacharelado em Ciência da Computação desenvolvido pela aluna Luma Kühl.
+aluna -> acadêmica
+
+Questão 9, 13, 16
+mais imagens, só tem uma obra
+deveria ser check-box ou radio bottom
+
+Será que as questões não deveriam ser obrigatórias para responder
+
+Questão 12
+Quais obras seriam?
+
+Título das sessões: Avaliação, Avaliação 3
+
+Questão 18 não deveria ser colocada imagem real e PC lado a lado
+
+Vai ter mais material de apoio? Slides para dizer o que fez?
+Será que no final do questionário não poderia apontar para links do tipo "para saber mais olhe"
+Do progrma Generator
+Do site de galeria
+etc.
